@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: de3e6fb1-4b1e-3596-2070-3a3a46c5d60e
 ---
@@ -56,7 +59,7 @@ READINGS
 {{< tdopen >}}
 Sets and events
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \[LM\] sections 1.1-1.3 and 2.1-2.7.
@@ -100,7 +103,7 @@ Conditional probability and independence
 {{< tdopen >}}
 Bayes theorem and random variables
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 \[LM\] sections 3.1-3.4 and 3.7.
@@ -175,7 +178,7 @@ Review
 {{< tdopen >}}
 Functions of random variables
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[LM\] sections 3.8-3.10.
@@ -210,7 +213,7 @@ Functions of several random variables
 {{< tdopen >}}
 Order statistics and expectations
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \[LM\] sections 3.5-3.6 and 3.11.
@@ -328,7 +331,7 @@ Review
 {{< tdopen >}}
 Central limit theorem, estimators, bias, and consistency
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[LM\] sections 5.1-5.5 and 5.7.
@@ -363,7 +366,7 @@ Constructing estimators
 {{< tdopen >}}
 Confidence intervals
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[LM\] section 5.3.
@@ -398,7 +401,7 @@ Confidence intervals (cont.)
 {{< tdopen >}}
 Hypothesis tests
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \[LM\] sections 6.1-6.5, 7.1-7.5, and 9.1-9.4.
