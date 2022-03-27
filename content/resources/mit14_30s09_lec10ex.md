@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a9889fb8-af0b-6d96-6edd-b4093f42bf2b
 resourcetype: Document
 title: Appendix to Lecture Notes 10
 uid: 93c9ca60-53e5-98e9-7baf-12194eb1afd4
