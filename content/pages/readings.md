@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on required and recommended textbooks
+  for the course, and the schedule of reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
