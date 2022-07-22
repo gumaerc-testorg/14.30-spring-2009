@@ -5,6 +5,7 @@ file: /courses/14-30-introduction-to-statistical-methods-in-economics-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Problem Set #6 \u2014 Solution"
 uid: 4f6b3bbb-dd80-09cb-178d-b350a8f25c49
 ---
 Solutions to a problem set on statistical methods for economics.
-

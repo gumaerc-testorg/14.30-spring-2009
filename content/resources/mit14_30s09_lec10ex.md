@@ -6,6 +6,7 @@ file: /courses/14-30-introduction-to-statistical-methods-in-economics-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Appendix to Lecture Notes 10
 uid: 93c9ca60-53e5-98e9-7baf-12194eb1afd4
 ---
 Lecture notes on an example of transformation formula of integration limits.
-
