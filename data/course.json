@@ -27,7 +27,7 @@
     "website": "14-30-introduction-to-statistical-methods-in-economics-spring-2009"
   },
   "course_title": "Introduction to Statistical Methods in Economics",
-  "course_description": "This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for 14.32. Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.\n",
+  "course_description": "This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for _14.32 Econometrics_. Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.",
   "department_numbers": [
     "14"
   ],
@@ -42,6 +42,7 @@
     "Lecture Notes",
     "Problem Sets with Solutions"
   ],
-  "site_uid": "b020d6ac-6d57-4534-a353-75dd26da5ca8",
+  "site_uid": "491bf66e-d3fc-4dfc-bdc5-8dab99aef3a1",
+  "short_id": "14.30-spring-2009",
   "title": "Course Metadata"
 }
