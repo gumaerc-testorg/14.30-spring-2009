@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on statistical methods for economics.
 file: /courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/7db83ceb44efc1c20a9624f2b8d827fe_MIT14_30s09_sol_pset08.pdf
+file_size: 1643452
 file_type: application/pdf
 learning_resource_types:
 - Assignments
